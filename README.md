@@ -1,8 +1,8 @@
 **Weather Model** v1.0
 
-name: ToNII AI
-author: DlzxnDev
-url: https://t.me/WeTonyAIbot
+name: ToNII AI\n
+author: DlzxnDev\n
+url: https://t.me/WeTonyAIbot\n
 
 -Check Weather in your city
 
